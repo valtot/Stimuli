@@ -4,7 +4,6 @@ import random
 
 win = visual.Window(
     size = [400,400],
-    pos =[350,350],
     units = 'pix',
     fullscr = True
 )
